@@ -1,4 +1,4 @@
-# Pin-Nptes
+# Pin-Notes
 
              This is an basic notes pining web app build using react.js and inspired from google keep.
              
